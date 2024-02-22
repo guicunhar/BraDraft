@@ -12,11 +12,11 @@ window.nomes = [
     ,{ 'id': 'fred_2012', 'nome': 'FRED 2012', 'over': 96, 'pos': 'ATA', 'idpos': 1, 'tipo': 'LENDA', 'time': 'fluminense'}
     ,{ 'id': 'conca_2010', 'nome': 'CONCA 2010', 'over': 95, 'pos': 'MEI', 'idpos': 3, 'tipo': 'LENDA', 'time': 'fluminense'}
     ,{ 'id': 'cassio_2012', 'nome': 'CASSIO 2012', 'over': 95, 'pos': 'GOL', 'idpos': 8, 'tipo': 'LENDA', 'time': 'corinthians'}
-    ,{ 'id': 'gabigol_2019', 'nome': 'GABIGOL 2019', 'over': 95, 'pos': 'ATA', 'idpos': 1, 'tipo': 'REI DA AMÉRICA', 'time': 'flamengo'}
+    ,{ 'id': 'gabigol_2019', 'nome': 'GABIGOL 2019', 'over': 95, 'pos': 'ATA', 'idpos': 1, 'tipo': 'REI', 'time': 'flamengo'}
     ,{ 'id': 'everton_ribeiro_2014', 'nome': 'E. RIBEIRO 2014', 'over': 94, 'pos': 'MEI', 'idpos': 3, 'tipo': 'LENDA', 'time': 'cruzeiro'}
     ,{ 'id': 'geromel_2017', 'nome': 'GEROMEL 2017', 'over': 92, 'pos': 'ZAG', 'idpos': 5, 'tipo': 'LENDA', 'time': 'gremio'}
     ,{ 'id': 'hernanes_2008', 'nome': 'HERNANES 2008', 'over': 92, 'pos': 'VOL', 'idpos': 4, 'tipo': 'LENDA', 'time': 'sao_paulo'}
-    ,{ 'id': 'pedro_2022', 'nome': 'PEDRO 2022', 'over': 90, 'pos': 'ATA', 'idpos': 1, 'tipo': 'REI DA AMÉRICA', 'time': 'flamengo'}
+    ,{ 'id': 'pedro_2022', 'nome': 'PEDRO 2022', 'over': 90, 'pos': 'ATA', 'idpos': 1, 'tipo': 'REI', 'time': 'flamengo'}
     ,{ 'id': 'jorge_jesus_2019', 'nome': 'J. JESUS 2019', 'over': 90, 'pos': 'TEC', 'idpos': 9, 'tipo': 'LENDA', 'time': 'flamengo'}
     ,{ 'id': 'suarez', 'nome': 'SUAREZ', 'over': 89, 'pos': 'ATA', 'idpos': 1, 'tipo': 'OURO RARA', 'time': 'gremio'}
     ,{ 'id': 'arrascaeta', 'nome': 'ARRASCAETA', 'over': 89, 'pos': 'MEI', 'idpos': 3, 'tipo': 'OURO RARA', 'time': 'flamengo'}
@@ -27,7 +27,7 @@ window.nomes = [
     ,{ 'id': 'gustavo gomez', 'nome': 'GUSTAVO GOMEZ', 'over': 88, 'pos': 'ZAG', 'idpos': 5, 'tipo': 'OURO RARA', 'time': 'palmeiras'}
     ,{ 'id': 'marcelo', 'nome': 'MARCELO', 'over': 88, 'pos': 'LE', 'idpos': 6, 'tipo': 'OURO RARA', 'time': 'fluminense'}
     ,{ 'id': 'weverton', 'nome': 'WEVERTON', 'over': 88, 'pos': 'GOL', 'idpos': 8, 'tipo': 'OURO RARA', 'time': 'palmeiras'}
-    ,{ 'id': 'luan_2017', 'nome': 'LUAN 2017', 'over': 88, 'pos': 'MEI', 'idpos': 3, 'tipo': 'REI DA AMÉRICA', 'time': 'gremio'}
+    ,{ 'id': 'luan_2017', 'nome': 'LUAN 2017', 'over': 88, 'pos': 'MEI', 'idpos': 3, 'tipo': 'REI', 'time': 'gremio'}
     ,{ 'id': 'hulk', 'nome': 'HULK', 'over': 87, 'pos': 'ATA', 'idpos': 1, 'tipo': 'OURO RARA', 'time': 'atletico_mg'}
     ,{ 'id': 'pedro', 'nome': 'PEDRO', 'over': 87, 'pos': 'ATA', 'idpos': 1, 'tipo': 'OURO RARA', 'time': 'flamengo'}
     ,{ 'id': 'dudu', 'nome': 'DUDU', 'over': 87, 'pos': 'PON', 'idpos': 2, 'tipo': 'OURO RARA', 'time': 'palmeiras'}
@@ -47,7 +47,7 @@ window.nomes = [
     ,{ 'id': 'marcos rocha', 'nome': 'MARCOS ROCHA', 'over': 86, 'pos': 'LD', 'idpos': 7, 'tipo': 'OURO RARA', 'time': 'palmeiras'}
     ,{ 'id': 'everson', 'nome': 'EVERSON', 'over': 86, 'pos': 'GOL', 'idpos': 8, 'tipo': 'OURO RARA', 'time': 'atletico_mg'}
     ,{ 'id': 'cassio', 'nome': 'CASSIO', 'over': 86, 'pos': 'GOL', 'idpos': 8, 'tipo': 'OURO RARA', 'time': 'corinthians'}
-    ,{ 'id': 'marinho_2020', 'nome': 'MARINHO 2020', 'over': 86, 'pos': 'PON', 'idpos': 2, 'tipo': 'REI DA AMÉRICA', 'time': 'santos'}
+    ,{ 'id': 'marinho_2020', 'nome': 'MARINHO 2020', 'over': 86, 'pos': 'PON', 'idpos': 2, 'tipo': 'REI', 'time': 'santos'}
     ,{ 'id': 'vitor roque', 'nome': 'VITOR ROQUE', 'over': 85, 'pos': 'ATA', 'idpos': 1, 'tipo': 'OURO RARA', 'time': 'cap'}
     ,{ 'id': 'rony', 'nome': 'RONY', 'over': 85, 'pos': 'ATA', 'idpos': 1, 'tipo': 'OURO RARA', 'time': 'palmeiras'}
     ,{ 'id': 'roger guedes', 'nome': 'ROGER GUEDES', 'over': 85, 'pos': 'PON', 'idpos': 2, 'tipo': 'OURO RARA', 'time': 'corinthians'}
